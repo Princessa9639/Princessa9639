@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Princessa9639
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Princessa9639/Princessa9639 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+a=47
+b=53
+b=b-a
+a=a+b
+b=a-b
+print(a,b)
